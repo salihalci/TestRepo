@@ -1,0 +1,9 @@
+commands
+
+	git clone path
+	
+	git command -h ->to find parameters vs.
+	
+	git commit ->allow us to create a commit
+	
+	git log ->gives us an overview of commits
