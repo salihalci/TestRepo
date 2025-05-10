@@ -19,4 +19,11 @@ commands
 	
 	git checkout branchname -> brancha geçmek için
 	
+	git show hash ->show details of operation
+	
+	git show  33f6bd706ae70e2211d4c66e40ff781f98e4ef40 ->gives us extensive information about commit
+ 	
+	git show --name-only 33f6bd706ae70e2211d4c66e40ff781f98e4ef40 ->short information about commit
+	
+	git reflog -> gives us all commits and all branches
 	
