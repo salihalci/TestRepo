@@ -34,3 +34,12 @@ commands
 	
 	test
 	
+	git revert hash ->Yapılan commiti geri almak için kullanılır
+	
+	git init -h ->create a new repository
+	git remote add 
+	
+	git diff sourceBranch targetBranch
+	
+	git stash -h
+	
