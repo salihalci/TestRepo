@@ -13,3 +13,10 @@ commands
 	
 	git reset <filename> ->removes one or mor files from staging
 	
+	git branch ->show all branches
+	
+	git branch featureBranch -> creates a new branch
+	
+	git checkout branchname -> brancha geçmek için
+	
+	
