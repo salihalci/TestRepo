@@ -7,3 +7,9 @@ commands
 	git commit ->allow us to create a commit
 	
 	git log ->gives us an overview of commits
+	
+	git add . -> add one or more files for staging
+	git add file1.txt
+	
+	git reset <filename> ->removes one or mor files from staging
+	
