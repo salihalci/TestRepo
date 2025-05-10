@@ -28,9 +28,10 @@ commands
 	git reflog -> gives us all commits and all branches
 	
 	
+	
 	git push ->send commits to remote repository
 	git pull -> retrieve commits to local repository
 	
 	
-	test
+	test2
 	
